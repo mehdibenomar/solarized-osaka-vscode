@@ -3,10 +3,11 @@
     "displayName": "Solarized Osaka",
     "description": "A Solarized-inspired dark theme with a touch of Osaka",
     "version": "0.0.1",
-    "publisher": "user",
+    "publisher": "Mehdi Ben Omar",
+    "icon": "assets/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/username/solarized-osaka-vscode"
+        "url": "https://github.com/mehdibenomar/solarized-osaka-vscode"
     },
     "engines": {
         "vscode": "^1.80.0"
