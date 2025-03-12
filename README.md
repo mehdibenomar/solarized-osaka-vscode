@@ -10,6 +10,12 @@ A Solarized-inspired dark theme with a touch of Osaka's vibrant spirit. This the
 - 🎯 Special attention to semantic highlighting
 - 🖥️ Clean and distraction-free UI elements
 
+## Screenshot
+
+Here's a preview of the Solarized Osaka theme in action:
+
+![Solarized Osaka Theme Screenshot](assets/Screenshot.png)
+
 ## Color Palette
 
 - Background: #011219
